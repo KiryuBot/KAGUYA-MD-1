@@ -21,8 +21,8 @@ global.APIKeys = {
 	'https://api.lolhuman.xyz': 'apikeylu',
 }
 
-// Other
-global.owner = ['6281285866502', '6281398003097']
+// Lainnya
+global . pemilik  = [ '6285338314194' , '6285338314194' ]
 global.botname = 'BAYUBOT-MD'
 global.ownername = 'BAYU OFC'
 global.packname = 'BAYUBOT-MD'
